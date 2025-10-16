@@ -6,9 +6,9 @@
   </samp>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=candvert&show_icons=true" />
-</a>
+</div>
 
 <a href="https://github.com/candvert/candvert.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=candvert&repo=candvert.github.io" />
